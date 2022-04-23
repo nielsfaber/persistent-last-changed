@@ -1,0 +1,11 @@
+{
+  "domain": "persistent_last_changed",
+  "name": "Persistent Last Changed",
+  "version": "v1.0.0",
+  "documentation": "https://github.com/nielsfaber/persistent-last-changed",
+  "issue_tracker": "https://github.com/nielsfaber/persistent-last-changed/issues",
+  "dependencies": ["sensor"],
+  "codeowners": ["@nielsfaber"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}

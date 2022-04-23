@@ -1,0 +1,38 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Choose entity which should be tracked",
+        "data": {
+          "entity": "Entity"
+        }
+      },
+      "name": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Choose name for entity",
+        "data": {
+          "name": "Name"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Choose entity which should be tracked",
+        "data": {
+          "entity": "Entity"
+        }
+      },
+      "name": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Choose name for entity",
+        "data": {
+          "name": "Name"
+        }
+      }
+    }
+  }
+}
