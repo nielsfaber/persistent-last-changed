@@ -14,6 +14,13 @@
         "data": {
           "name": "Name"
         }
+      },
+      "expiration": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Mark entity as faulty in case it hasn't been updated for this amount of days (leave at 0 to disable)",
+        "data": {
+          "name": "Days until expiration"
+        }
       }
     }
   },
@@ -31,6 +38,13 @@
         "description": "Choose name for entity",
         "data": {
           "name": "Name"
+        }
+      },
+      "expiration": {
+        "title": "Configure Persistent Last Changed settings",
+        "description": "Mark entity as faulty in case it hasn't been updated for this amount of days (leave at 0 to disable)",
+        "data": {
+          "name": "Days until expiration"
         }
       }
     }
